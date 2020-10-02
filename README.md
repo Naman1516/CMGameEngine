@@ -1,4 +1,4 @@
-*** 现有CMGameEngine除去bug修复以及ULRE连带更新，将不再有主动更新计划。请关注ULRE(https://github.com/hyzboy/ULRE)
+*** 现有CMGameEngine除去bug修复以及ULRE连带更新，将不再有主动更新计划。请关注URL(https://github.com/hyzboy/ULRE)
 
 * 除去黑名单外，使用是免费的。包括所有商业和非商业环境，所有开源和闭源工程。但同样的，我们不会为出现的任何问题负责。
 * 对本工程的再开发或使用，必须有明确的名称标识。否则你将不会得到任何形式的支持，并被加入黑名单，即使你付费。
